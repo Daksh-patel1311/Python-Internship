@@ -1,0 +1,1 @@
+print("daksh","21","valsad")
